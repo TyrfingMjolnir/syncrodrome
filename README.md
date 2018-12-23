@@ -1,2 +1,2 @@
 # syncrodrome
-time-tracking
+Time Tracking by (C)Copyright Gjermund Gusland Thorsen 1998 -
